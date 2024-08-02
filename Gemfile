@@ -17,7 +17,7 @@ gem "github-pages", ">= 229", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.16", ">= 0.16.0"
-  gem "jekyll-commonmark-ghpages", "~> 0.2"
+  gem "jekyll-commonmark-ghpages", "~> 0.5", ">= 0.5.0"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
